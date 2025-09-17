@@ -17,7 +17,7 @@
 
 2. На графике видно, что наибольшее число сделок совершают люди среднего возраста (30-50 лет), но их и больше всего. При этом если рассматривать количество сделок на количество людей определённого возраста,то можно заметить, что в лидерах сделок на 1 человека находятся люди пожилого возраста (60-80 лет).
 
-<img src="https://github.com/user-attachments/assets/b0cc01b1-ffeb-4321-a8ca-0728d1270485" width="400" />
+<img src="https://github.com/user-attachments/assets/b0cc01b1-ffeb-4321-a8ca-0728d1270485" width="450" />
 .
-<img src="https://github.com/user-attachments/assets/f9818e08-b096-4ecb-9bd6-13a547528dfe" width="300" />
+<img src="https://github.com/user-attachments/assets/f9818e08-b096-4ecb-9bd6-13a547528dfe" width="250" />
 
