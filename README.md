@@ -4,10 +4,8 @@
   <br>
 </h1>
 
-<h4 align="center">https://dano.hse.ru/data2024#11</h4>
+<h4 align="center">Датасет - https://dano.hse.ru/data2024#11</h4>
 
 
 ## Описание
-- Проанализировал среднее кол-во ожидаемых голов (Метрика xG) за игру с помощью pandas
-- Скорректировал типы данных
-- Визуализировал основные показатели игроков через matplotlib
+![f]("C:\Users\Ярослав\Desktop\makima.webp")
